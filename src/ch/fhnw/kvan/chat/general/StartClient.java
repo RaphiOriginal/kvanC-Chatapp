@@ -11,7 +11,7 @@ import java.lang.reflect.Method;
 import org.apache.log4j.BasicConfigurator;
 import org.apache.log4j.Logger;
 
-//import ch.fhnw.kvan.chat.socket.client.Client;
+import ch.fhnw.kvan.chat.socket.client.Client;
 
 /**
  * Class StartClient is used to start the Client side of the chat application. As a
