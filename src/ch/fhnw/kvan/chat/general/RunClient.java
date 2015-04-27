@@ -39,7 +39,7 @@ public class RunClient extends JFrame {
 	RunClient() {
 		super("Choose Chat Client");
 
-		// Log4J initialization
+		// Log4J initialization1
 		logger = Logger.getLogger(RunClient.class);
 
 		Vector<String> vect = new Vector<String>();
